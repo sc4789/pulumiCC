@@ -1,0 +1,6 @@
+name: myproject
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: cc
